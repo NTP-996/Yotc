@@ -1,0 +1,8 @@
+target/
+.vscode/
+
+*.out
+*.o
+*.ll
+
+.DS_Store
